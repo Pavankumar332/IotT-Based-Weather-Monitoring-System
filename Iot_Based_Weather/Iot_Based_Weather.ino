@@ -10,7 +10,7 @@
 #include <DHT.h>
 
 char ssid[] = "Pavankumar";
-char pass[] = "shreya132";
+char pass[] = "33023302";
 
 #define DHTPIN D4
 #define DHTTYPE DHT11
